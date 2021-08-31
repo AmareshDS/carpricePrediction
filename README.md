@@ -1,2 +1,2 @@
 # carpricePrediction
-Predict used cars price
+Predict used cars price in India
