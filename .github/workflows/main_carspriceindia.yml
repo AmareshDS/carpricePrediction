@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'carspriceindia'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_cba09464561d417b83949920dba6bd2c }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_c2f935cd184d42e3bc6c2cfd92576bab }}
